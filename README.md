@@ -29,13 +29,12 @@ The goal of this project is to improve SQL problem-solving skills and develop a 
 ## 📂 Project Structure
 
 ```text
-MySQL-50-Questions/
+mysql-data-analyst-practice.sql/
 │
 ├── README.md
 └── mysql_50_questions.sql
 ```
 
-*Note: The SQL filename shown above is an example. Replace it with the actual filename in your repository if it is different.*
 
 ## 📊 What I Practiced
 
